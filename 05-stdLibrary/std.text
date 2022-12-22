@@ -1,0 +1,8 @@
+std is a library.It have some function like 
+
+std::cout = Printing data to the console
+std::cin = Reading data from the terminal
+std::cerr = Printing errors to the console
+std::clog = Printing log messages to the console
+std::endl = Set end of a line Or Line break 
+std::getline = Reading data with spaces

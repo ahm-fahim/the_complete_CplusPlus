@@ -26,12 +26,17 @@ int main()
     string text = "Hello Google";
     bool value = true;
 
+    int funcInital(10);
+    int objectInital{12};
+
     // display
     cout << num1 << "\n";
     cout << floatNum2 << "\n";
     cout << letter << "\n";
     cout << text << "\n";
     cout << value << "\n";
+    cout << funcInital << endl;
+    cout << objectInital << endl;
 
     int age = 23;
     cout << "I am " << age << "years old\n";
