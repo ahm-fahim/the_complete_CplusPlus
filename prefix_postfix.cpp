@@ -14,4 +14,6 @@ int main()
     cout << ++value << endl;
     cout << value-- << endl;
     cout << --value << endl;
+
+    return 0;
 }
