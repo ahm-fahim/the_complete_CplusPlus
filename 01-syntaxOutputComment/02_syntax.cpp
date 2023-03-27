@@ -7,7 +7,7 @@
 
 /*
 Line 1: #include <iostream> is header file library that 
-lets us work with nput and output objects, 
+lets us work with input and output objects, 
 such as cout (used in line 5).Header files add functionality to c++ 
 
 Line 2: using namespace std means that we can use names for objects and variables from the standard library.

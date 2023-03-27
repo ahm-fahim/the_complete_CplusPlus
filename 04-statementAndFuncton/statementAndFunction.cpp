@@ -8,8 +8,8 @@ int addNums(int num1, int num2){
 }
 
 /*
-FUNCTION is like a mechine.
-The benifits of a function is we can reuse a code and don't need to repeat code,
+FUNCTION is like a machine.
+The benefits of a function is we can reuse a code and don't need to repeat code,
 Thats why the program makes smaller and easier. 
 */
 int main(){

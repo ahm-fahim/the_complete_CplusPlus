@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     cout << "Hello Google! \n";
-    cout << "I'm Fahimn\\"; // add backslash
+    cout << "I'm Fahim\\"; // add backslash
     cout << "I Wanna be your engineer" << endl;
     cout << "It's my Dream\t"; //tab
     cout << "May \"Allah\" accept me as a google engineer";  //insert double quote

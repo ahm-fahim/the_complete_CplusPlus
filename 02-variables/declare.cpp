@@ -19,15 +19,15 @@ using namespace std;
 
 int main()
 {
-    int num1 = 15;
-    num1 = 5;
+    int num1 = 15; // initial integer value with declaration
+    num1 = 5;      // inital value after declaration
     double floatNum2 = 11.3;
     char letter = 'd';
     string text = "Hello Google";
     bool value = true;
 
-    int funcInital(10);
-    int objectInital{12};
+    int funcInital(10);   // inital value like function
+    int objectInital{12}; // initial value like object
 
     // display
     cout << num1 << "\n";
@@ -39,10 +39,12 @@ int main()
     cout << objectInital << endl;
 
     int age = 23;
-    cout << "I am " << age << "years old\n";
+    cout << "I am " << age << " years old\n";
 
     // add variables
     int a = 5, b = 4, sum;
     sum = a + b;
     cout << "sum= " << sum;
+
+    return 0;
 }
