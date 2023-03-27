@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
-
+// Data type in c++
 int main()
 {
     float float_var{2.123456789f};
