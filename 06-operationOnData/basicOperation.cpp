@@ -26,7 +26,9 @@ int main()
 
     cout << "sizeof divide: " << sizeof(divide) << " bytes \n";
 
-    // modulas
-    int modulas{num1 % num2};
-    cout << "modulas: " << modulas << endl;
+    // modulus
+    int modulus{num1 % num2};
+    cout << "Modulus: " << modulus << endl;
+
+    return 0;
 }
