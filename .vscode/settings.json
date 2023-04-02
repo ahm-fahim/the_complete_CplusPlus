@@ -1,6 +1,7 @@
 {
     "cSpell.words": ["Fahim"],
     "files.associations": {
-        "limits": "cpp"
+        "limits": "cpp",
+        "iostream": "cpp"
     }
 }
