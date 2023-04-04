@@ -19,8 +19,8 @@ int main()
     auto result1 = var1 + var2;
     auto result2 = var3 + var4;
 
-    cout << "Result1 = " << result1 << endl;
-    cout << "Result2 = " << result2 << endl;
+    cout << "sizeof Result1 = " << sizeof(result1) << endl; // 4 bytes
+    cout << "sizeof Result2 = " << sizeof(result2) << endl;
 
     return 0;
 }
