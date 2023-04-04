@@ -30,4 +30,6 @@ int main()
 
     cout << "2.4 rounded to " << round(2.4) << endl;
     cout << "2.6 rounded to " << round(2.6) << endl;
+
+    return 0;
 }
