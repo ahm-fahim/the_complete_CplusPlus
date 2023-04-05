@@ -6,7 +6,7 @@ const int Pen{10}, Marker{30}, Eraser{15}, Rectangle{50}, Circle{45}, Ellipse{60
 
 int main()
 {
-    int tool{Marker};
+    int tool{Marker}; // integral types and enums : int, long , unsigned short etc.
 
     switch (tool)
     {
