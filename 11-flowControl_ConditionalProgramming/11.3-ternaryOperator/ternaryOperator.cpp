@@ -5,6 +5,7 @@ int main()
 {
     int max{}, min{}, num1{22}, num2{23};
 
+    // variable = (condition)? value1/variable1 : value2/variable2;
     max = (num1 > num2) ? num1 : num2;
     min = (num1 > num2) ? num2 : num1;
 
