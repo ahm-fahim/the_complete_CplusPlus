@@ -27,5 +27,27 @@ int main()
         cout << "j " << j << endl;
     }
     cout << "Outside Iterator " << j << endl;
+
+    // Leave out the iteration part
+    int k{};
+    for (; k <= 4; k++)
+    {
+        cout << "K " << k << endl;
+    }
+    cout << "Loop Done\n\n\n";
+
+    // Don't hard code value in the loop - it's bad habit
+
+    // GOOD HABIT
+
+    int count{10};
+    int start{};
+
+    for (start; start < count; start++)
+    {
+        cout << "Total Count: " << start << endl;
+    }
+
+    cout << "\n\n\n Code Executed Successfully! \n\n\n";
     return 0;
 }
