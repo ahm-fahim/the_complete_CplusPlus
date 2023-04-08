@@ -4,7 +4,7 @@
 
 ## Our Lessons
 
-```json
+
 01 - [Syntax, Output, Comment in C++](https://github.com/ahm-fahim/the_complete_CplusPlus/tree/main/01-syntaxOutputComment)
 02 - Variables in C++
 03 - Errors in C++
@@ -18,5 +18,3 @@
 11 - Follow Control - Conditional Programming in C++
 12 - Loops in C++
 
-
-```
