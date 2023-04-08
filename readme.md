@@ -28,6 +28,6 @@
 
 ### Chapter - 2 (Follow Control)
 
-### 11 - [Follow Control - Conditional Programming in C++](https://github.com/ahm-fahim/the_complete_CplusPlus/tree/main/11-flowControl_ConditionalProgramming)
+### 11 - [Follow Control - Conditional Programming in C++](<https://github.com/ahm-fahim/the_complete_CplusPlus/tree/main/chapter-2(Follow-Control)/11-conditional>)
 
-### 12 - [Loops in C++](https://github.com/ahm-fahim/the_complete_CplusPlus/tree/main/12-loops)
+### 12 - [Loops in C++](<https://github.com/ahm-fahim/the_complete_CplusPlus/tree/main/chapter-2(Follow-Control)/12-loops>)
