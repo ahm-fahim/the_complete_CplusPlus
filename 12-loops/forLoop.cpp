@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+
     for (int i = 1; i < 11; i++)
     {
         cout << i << " Every day I dream of becoming a Google employee\n";
@@ -19,5 +20,12 @@ int main()
         cout << i << " Every day I dream of becoming a Google employee\n";
     }
 
+    // iterator declare outside of the loop
+    int j{};
+    for (j; j < 5; j++)
+    {
+        cout << "j " << j << endl;
+    }
+    cout << "Outside Iterator " << j << endl;
     return 0;
 }
