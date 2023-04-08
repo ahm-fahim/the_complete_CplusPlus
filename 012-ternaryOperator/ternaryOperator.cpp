@@ -11,5 +11,16 @@ int main()
     cout << "Max = " << max << endl;
     cout << "Min = " << min << endl;
 
+    // ternary initialize
+    bool fast = true;
+
+    int speed{fast ? 300 : 230};
+
+    cout << "The speed is " << speed << endl;
+
+    int a, b;
+    auto sum = (a + b) ? 22.3f : 10.4f;
+    cout << "Sum = " << sum << endl;
+
     return 0;
 }
