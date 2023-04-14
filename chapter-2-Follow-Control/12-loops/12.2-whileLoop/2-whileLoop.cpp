@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    const unsigned int COUNT{10};
-    unsigned int i{};
+    const unsigned int COUNT{15};
+    unsigned int i{10};
 
     while (i < COUNT)
     {
