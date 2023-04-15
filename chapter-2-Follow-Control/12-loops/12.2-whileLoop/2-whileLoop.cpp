@@ -6,7 +6,14 @@ int main()
     const unsigned int COUNT{15};
     unsigned int i{10};
 
-    while (i < COUNT)
+    // while (i < COUNT)
+    // {
+    //     cout << "Count = " << i << endl;
+    //     cout << "While Loop\n";
+    //     ++i;
+    // }
+
+    while (i < 15)
     {
         cout << "Count = " << i << endl;
         cout << "While Loop\n";
