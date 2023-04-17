@@ -3,6 +3,17 @@ using namespace std;
 
 int main()
 {
+    // declare array
+    int array[5]; // junk data
+
+    // reading array data
+    cout << "Array [0] " << array[0] << endl;
+    cout << "Array [1] " << array[1] << endl;
+    cout << "Array [2] " << array[2] << endl;
+    cout << "Array [3] " << array[3] << endl;
+    cout << "Array [4] " << array[4] << endl
+         << endl;
+
     // data stored by indexing  1 by 1
     int scores[10];
 
