@@ -80,4 +80,17 @@ int main()
     cout << "Size of salaries " << sizeof(salaries) << endl;
     cout << "Size of salaries[0] " << sizeof(salaries[0]) << endl;
     cout << "Size of salaries / = " << sizeof(salaries) / sizeof(salaries[0]) << endl;
+
+    // char
+
+    char massages[5]{'h', 'e', 'l', 'l', 'o'};
+    for (auto c : massages)
+    {
+        cout << " Massage " << massages << endl;
+    }
+    char massages2[6]{'H', 'E', 'L', 'L', 'O'};
+    for (auto c : massages2)
+    {
+        cout << " Massage " << massages2 << endl;
+    }
 }
